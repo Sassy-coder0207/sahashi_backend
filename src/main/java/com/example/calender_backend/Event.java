@@ -1,4 +1,4 @@
-package com.example.sahashi_backend;
+package com.example.calender_backend;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

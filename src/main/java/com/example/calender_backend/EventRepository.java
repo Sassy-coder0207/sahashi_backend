@@ -1,4 +1,4 @@
-package com.example.sahashi_backend;
+package com.example.calender_backend;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

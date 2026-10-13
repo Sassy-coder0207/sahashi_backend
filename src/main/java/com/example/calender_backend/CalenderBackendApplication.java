@@ -1,11 +1,11 @@
-package com.example.sahashi_backend;
+package com.example.calender_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SahashiBackendApplication {
+public class calenderBackendApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SahashiBackendApplication.class, args);
+        SpringApplication.run(calenderBackendApplication.class, args);
     }
 }
