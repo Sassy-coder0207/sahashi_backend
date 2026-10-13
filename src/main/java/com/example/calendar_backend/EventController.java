@@ -1,4 +1,4 @@
-package com.example.calender_backend;
+package com.example.calendar_backend;
 
 import org.springframework.web.bind.annotation.*;
 

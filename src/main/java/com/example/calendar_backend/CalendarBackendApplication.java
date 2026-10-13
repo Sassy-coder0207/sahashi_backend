@@ -1,11 +1,11 @@
-package com.example.calender_backend;
+package com.example.calendar_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class calenderBackendApplication {
+public class CalendarBackendApplication {
     public static void main(String[] args) {
-        SpringApplication.run(calenderBackendApplication.class, args);
+        SpringApplication.run(CalendarBackendApplication.class, args);
     }
 }

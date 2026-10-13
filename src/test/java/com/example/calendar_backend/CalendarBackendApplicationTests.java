@@ -1,10 +1,10 @@
-package com.example.calender_backend;
+package com.example.calendar_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SahashiBackendApplicationTests {
+class CalendarBackendApplicationTests {
 
     @Test
     void contextLoads() {
